@@ -28,6 +28,5 @@
 
 ## Team Notes
 
-## Datasets
-**1. Food-101 (Images)**  
-**2. HuffPost News Category (Text)**  
+## Dataset
+** HuffPost News Category (Text)**  
