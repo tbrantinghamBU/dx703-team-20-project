@@ -10,7 +10,7 @@
 | Date       | Milestone       | Status       |
 |------------|-----------------|--------------|
 | 2026-03-23 | Contract Due    | Done         |
-| 2026-03-31 | Milestone 1 Due | Not Started  |
+| 2026-03-31 | Milestone 1 Due | Started  |
 | Week 11    | Milestone 2 Due | Not Started  |
 | Week 13    | Final Project Due | Not Started |
 | Week 14    | Team Eval Due   | Not Started  |
