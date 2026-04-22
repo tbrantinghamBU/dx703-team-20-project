@@ -12,3 +12,4 @@ logs/
 results_large_gamma2.0/
 results_large_gamma3.0/
 *.h5
+*.pt
